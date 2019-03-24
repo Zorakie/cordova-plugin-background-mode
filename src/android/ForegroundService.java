@@ -56,7 +56,7 @@ public class ForegroundService extends Service {
 
     // Default text of the background notification
     private static final String NOTIFICATION_TEXT =
-            "Doing heavy tasks.";
+            "You are being motivated...";
 
     // Default icon of the background notification
     private static final String NOTIFICATION_ICON = "icon";
